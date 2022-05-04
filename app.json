@@ -1,10 +1,11 @@
 {
   "expo": {
-    "name": "section6",
+    "name": "My Recipe Book",
     "slug": "section6",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "backgroundColor": "#24180f",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -23,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.yassine_benghanem.myrecipebook"
     },
     "web": {
       "favicon": "./assets/favicon.png"
